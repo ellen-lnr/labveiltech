@@ -13,16 +13,16 @@ tags:
 draft: false
 ---
 
-L'intelligence artificielle, et plus particulièrement les Large Language Models (LLM) comme ChatGPT, Claude ou Gemini, révolutionne notre façon d'apprendre. Dans cet article, je partage comment j'utilise ces outils pour progresser dans mon domaine de veille : le tatouage et le social media.
+Quand j'ai commencé à me documenter sur le tatouage, je me suis retrouvée face à une montagne d'informations techniques : types d'aiguilles, encres, réglementations, techniques... C'est là que j'ai commencé à utiliser les LLM comme ChatGPT ou Claude pour m'aider à démêler tout ça. Voici comment ces outils sont devenus mes assistants d'apprentissage.
 
-## Qu'est-ce qu'un LLM ?
+## Pourquoi j'ai commencé à utiliser les LLM
 
-Un LLM (Large Language Model) est un modèle d'intelligence artificielle entraîné sur d'immenses quantités de texte. Il peut :
+En tant qu'étudiante en ingénierie des médias, je suis habituée aux outils numériques. Mais pour le tatouage, un domaine que je découvre, j'avais besoin d'un moyen de :
 
-- **Répondre à des questions** de manière conversationnelle
-- **Synthétiser des informations** complexes
-- **Générer du contenu** adapté à nos besoins
-- **Expliquer des concepts** de différentes manières
+- **Poser des questions "bêtes"** sans jugement
+- **Obtenir des explications adaptées** à mon niveau de débutante
+- **Synthétiser rapidement** des informations complexes
+- **Préparer mes recherches** avant de regarder une vidéo ou écouter un podcast
 
 ## Comment j'utilise les LLM pour le tatouage
 
@@ -81,26 +81,39 @@ Les LLM ne remplacent pas :
 
 **Important :** Je vérifie toujours les informations critiques (hygiène, réglementation) auprès de sources officielles.
 
+## Un exemple concret d'échange
+
+Voici une vraie conversation que j'ai eue avec Claude pour comprendre les bases :
+
+> **Moi** : Je débute dans le tatouage. Peux-tu m'expliquer simplement la différence entre une aiguille Round Liner et une Round Shader ?
+>
+> **Claude** : Bien sûr ! Imagine que tu dessines :
+> - **Round Liner (RL)** : C'est comme un stylo fin. Les aiguilles sont regroupées en cercle serré. Tu l'utilises pour les contours, les lignes précises, les détails fins. Plus le nombre est petit (3RL, 5RL), plus la ligne est fine.
+> - **Round Shader (RS)** : C'est comme un pinceau. Les aiguilles sont plus espacées. Tu l'utilises pour remplir, ombrager, créer des dégradés. Le rendu est plus doux et diffus.
+>
+> En résumé : Liner = tracer, Shader = remplir/ombrager.
+
+Ce genre d'explication simple m'a fait gagner un temps fou. Au lieu de regarder 3 vidéos de 20 minutes, j'ai eu ma réponse en 30 secondes, et je peux ensuite approfondir avec des sources visuelles.
+
 ## Ce que j'en retiens
 
-Les LLM sont des **accélérateurs d'apprentissage** formidables quand ils sont utilisés intelligemment :
+Après plusieurs mois d'utilisation, voici mes apprentissages :
 
-1. **Poser des questions précises** donne de meilleures réponses
-2. **Croiser les sources** reste indispensable
-3. **L'IA complète** mais ne remplace pas l'expérience humaine
-4. **Itérer sur les prompts** améliore la qualité des réponses
+1. **La qualité du prompt fait tout** : Plus ma question est précise, meilleure est la réponse
+2. **L'IA ne remplace pas la pratique** : Elle m'explique la théorie, mais mes mains doivent apprendre
+3. **Toujours vérifier les infos critiques** : Pour l'hygiène et la réglementation, je consulte les sources officielles
+4. **C'est un dialogue** : Je rebondis, je demande des précisions, je reformule
 
-## Pourquoi c'est utile pour moi
+## Ce que ça change pour mon projet
 
-L'utilisation des LLM dans ma veille me permet de :
+Concrètement, les LLM m'aident à :
 
-- **Gagner du temps** en obtenant des synthèses rapides
-- **Approfondir** des sujets complexes à mon rythme
-- **Préparer mes sessions** d'apprentissage plus efficacement
-- **Générer des idées** de contenu pour ma future communication
-- **Comprendre le jargon** technique du métier
+- **Accélérer ma courbe d'apprentissage** sans me sentir submergée
+- **Préparer mes questions** avant de contacter un tatoueur professionnel
+- **Brainstormer des idées** de contenu pour ma future présence en ligne
+- **Comprendre le vocabulaire** du métier pour mieux suivre les vidéos et podcasts
 
-C'est un outil complémentaire précieux qui s'intègre parfaitement dans ma routine de veille quotidienne.
+C'est devenu un réflexe : avant de chercher sur Google, je pose ma question à Claude ou ChatGPT. Et souvent, ça me suffit pour débloquer une incompréhension.
 
 ---
 

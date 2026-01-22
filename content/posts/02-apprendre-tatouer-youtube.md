@@ -14,16 +14,17 @@ tags:
 draft: false
 ---
 
-Dans ma veille sur le monde du tatouage, j'ai découvert une vidéo YouTube particulièrement instructive sur les étapes pour apprendre à tatouer. Voici mon analyse et les points clés que j'en retiens.
+C'est LA vidéo qui a répondu à mes premières questions quand j'ai commencé à m'intéresser sérieusement au tatouage. Je me souviens l'avoir regardée un soir, carnet en main, en me disant "ok, donc c'est vraiment possible". Voici ce que j'en ai retenu.
 
-## Contexte
+## Pourquoi cette vidéo m'a marquée
 
-Cette vidéo aborde les questions fondamentales que se pose tout aspirant tatoueur :
-- Comment se former au tatouage ?
-- Quelles sont les normes d'hygiène à respecter ?
-- Par où commencer concrètement ?
+Avant de tomber sur ce contenu, j'avais une vision floue du parcours pour devenir tatoueuse. Je savais que ça existait, que ça me fascinait, mais concrètement ? Aucune idée. Cette vidéo répond aux questions que je n'osais même pas formuler :
 
-C'est exactement le type de contenu que je recherche dans ma veille : des informations pratiques et structurées pour comprendre le parcours d'apprentissage.
+- Est-ce qu'il faut forcément faire une école ?
+- C'est quoi exactement les règles d'hygiène ?
+- Par où je commence si je veux me lancer ?
+
+En 20 minutes, j'ai eu une vision claire du chemin à parcourir. Et surtout, j'ai compris que c'était accessible — long, exigeant, mais accessible.
 
 ## Résumé structuré
 
@@ -56,28 +57,27 @@ La vidéo insiste fortement sur l'importance de l'hygiène :
 
 ## Ce que j'en retiens
 
-Cette vidéo m'a permis de comprendre plusieurs points essentiels :
+Cette vidéo a été un déclic pour moi. Voici les points qui m'ont le plus marquée :
 
-1. **Le tatouage n'est pas un hobby** : C'est un métier réglementé avec des responsabilités sanitaires importantes
+1. **C'est un vrai métier, pas un hobby** : Les responsabilités sanitaires sont énormes. On touche à la peau des gens, c'est sérieux.
 
-2. **La formation hygiène est non-négociable** : C'est la première étape légale avant de pouvoir exercer
+2. **La formation hygiène est obligatoire** : Pas de négociation possible. C'est ma première étape concrète à planifier.
 
-3. **L'apprentissage est long** : Compter 2 à 5 ans pour devenir vraiment compétent
+3. **Patience, patience, patience** : 2 à 5 ans pour être vraiment compétente. Ça calme les ardeurs, mais ça motive aussi.
 
-4. **Le mentorat est précieux** : Trouver un tatoueur qui accepte de transmettre son savoir est un atout majeur
+4. **Le mentor fait la différence** : Les tatoueurs qui ont réussi ont presque tous eu quelqu'un pour les guider au début.
 
-5. **La pratique régulière est clé** : Comme tout art, le tatouage demande des heures de pratique
+5. **Dessiner, dessiner, dessiner** : Avant même de toucher une machine, il faut maîtriser le dessin.
 
-## Pourquoi c'est utile pour moi
+## Ce que ça change pour moi
 
-Cette vidéo répond directement à mes interrogations sur le parcours d'apprentissage :
+Après avoir regardé cette vidéo, j'ai fait une liste concrète :
 
-- **Clarification du chemin** : Je comprends maintenant les étapes à suivre
-- **Réalisme** : J'ai une vision claire du temps et de l'investissement nécessaires
-- **Priorités** : Je sais que la formation hygiène doit être ma première action concrète
-- **Réseau** : L'importance de trouver un mentor est soulignée, ce qui oriente ma stratégie
+- ✅ **Court terme** : Continuer à dessiner quotidiennement, même 15 minutes
+- 📋 **Moyen terme** : Me renseigner sur les formations hygiène en Suisse
+- 🎯 **Long terme** : Identifier des studios qui pourraient accueillir une apprentie
 
-Cette ressource sera utile tout au long de mon parcours comme référence sur les fondamentaux du métier.
+Cette vidéo reste dans mes favoris. Je la reregarderai sûrement dans quelques mois pour voir si ma perception a évolué.
 
 ---
 

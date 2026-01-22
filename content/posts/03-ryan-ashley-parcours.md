@@ -14,11 +14,11 @@ tags:
 draft: false
 ---
 
-Dans le cadre de ma veille sur les artistes tatoueurs inspirants, j'ai découvert une interview fascinante de Ryan Ashley, première femme à avoir remporté la compétition Ink Master. Son parcours et sa philosophie offrent des enseignements précieux pour tout aspirant tatoueur.
+Ryan Ashley. Si tu t'intéresses au tatouage et que tu ne connais pas ce nom, il est temps de la découvrir. Première femme à remporter Ink Master, elle est devenue une icône mondiale avec son style unique mêlant ornements victoriens et esthétique macabre. Quand je suis tombée sur cette interview, j'ai tout de suite su que son parcours allait m'inspirer.
 
-## Contexte
+## Pourquoi je me suis intéressée à elle
 
-Ryan Ashley est devenue une figure emblématique du tatouage mondial après sa victoire à Ink Master en 2016. Son style distinctif, mêlant ornements victoriens et motifs macabres, l'a propulsée au rang de star internationale. Cette interview explore son parcours, ses défis et sa vision du métier.
+En cherchant des modèles féminins dans le monde du tatouage, Ryan Ashley est apparue partout. Ce qui m'a attirée chez elle, c'est qu'elle n'a pas suivi un parcours classique. Elle vient du monde de la mode, pas d'une école de tatouage. Ça résonne avec moi : je viens de l'ingénierie des médias, pas des beaux-arts. Et pourtant, elle a réussi à créer un style reconnaissable entre mille.
 
 ## Résumé structuré
 
@@ -57,29 +57,28 @@ Ryan partage plusieurs recommandations :
 
 ## Ce que j'en retiens
 
-Cette interview m'a apporté plusieurs enseignements majeurs :
+Cette interview m'a vraiment parlé. Voici ce qui m'a le plus marquée :
 
-1. **Le background compte** : Toute expérience artistique antérieure enrichit le travail de tatoueur
+1. **Mon parcours "atypique" est un atout** : Ryan vient de la mode, moi de la communication. Ce n'est pas un handicap, c'est une richesse qui peut nourrir un style unique.
 
-2. **Le style se construit** : Il faut du temps pour développer une identité visuelle forte
+2. **Le style vient avec le temps** : Inutile de se mettre la pression pour trouver "son truc" tout de suite. Ça se construit.
 
-3. **Les réseaux sociaux sont essentiels** : Instagram est devenu incontournable pour se faire connaître
+3. **Instagram n'est pas optionnel** : C'est LA vitrine du tatoueur moderne. Ma formation en médias peut vraiment m'aider ici.
 
-4. **La compétition peut être un tremplin** : Participer à des concours peut accélérer une carrière
+4. **L'authenticité > les tendances** : Ryan n'a jamais essayé de copier ce qui marchait. Elle a creusé son propre sillon.
 
-5. **L'authenticité paie** : Rester fidèle à sa vision plutôt que suivre les modes
+5. **Le travail, encore et toujours** : Pas de raccourci. Des heures de pratique, chaque jour.
 
-## Pourquoi c'est utile pour moi
+## Ce que ça change pour mon projet
 
-Le parcours de Ryan Ashley m'inspire à plusieurs niveaux :
+Ryan Ashley est devenue une sorte de "North Star" pour moi :
 
-- **Vision long terme** : Comprendre que le succès prend des années de travail
-- **Importance du branding** : Dès maintenant, réfléchir à mon identité visuelle
-- **Stratégie social media** : Confirme l'importance de ma veille sur ce sujet
-- **Diversité des parcours** : Rassure sur le fait qu'on peut venir d'horizons différents
-- **Modèle de réussite** : Un exemple concret de ce qu'il est possible d'accomplir
+- **Elle me rassure** : On peut venir d'ailleurs et réussir dans le tatouage
+- **Elle me motive** : Son parcours montre que c'est possible avec du travail et de la persévérance
+- **Elle m'inspire** : Son style unique me pousse à réfléchir à ce que pourrait être le mien
+- **Elle me guide** : L'importance qu'elle donne aux réseaux sociaux confirme que ma double casquette (tatouage + communication) a du sens
 
-Cette interview sera une source de motivation dans les moments de doute et un rappel des valeurs importantes : travail, authenticité et persévérance.
+Je reviendrai sûrement sur cette interview dans quelques années, pour voir le chemin parcouru.
 
 ---
 

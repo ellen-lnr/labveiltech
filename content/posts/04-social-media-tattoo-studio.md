@@ -14,11 +14,11 @@ tags:
 draft: false
 ---
 
-Le social media est devenu incontournable pour les studios de tatouage. Dans cette veille, j'analyse deux sources complémentaires : un épisode de podcast avec le créateur de NYCTattoos et un article LinkedIn sur le rôle d'un social media manager dans un studio.
+Cet article, c'est un peu la rencontre entre mes deux passions : le tatouage et la communication digitale. En tant qu'étudiante en ingénierie des médias, je suis fascinée par la façon dont les tatoueurs utilisent Instagram pour construire leur carrière. J'ai croisé deux sources qui m'ont particulièrement éclairée sur le sujet.
 
-## Contexte
+## Pourquoi ce sujet me parle autant
 
-Le monde du tatouage a profondément évolué avec l'essor des réseaux sociaux. Instagram, en particulier, est devenu la vitrine principale des tatoueurs. Comprendre comment exploiter ces plateformes est essentiel pour quiconque souhaite développer son activité dans ce domaine.
+C'est simple : c'est exactement là où je veux me positionner. Mon **ikigai**, c'est cette intersection entre l'art du tatouage et la communication digitale. Comprendre comment les studios gèrent leur présence en ligne, c'est comprendre comment je pourrais, un jour, soit gérer la mienne, soit accompagner d'autres artistes dans cette démarche.
 
 ## Source 1 : Building A Successful Tattoo Page with NYCTattoos (Podcast)
 
@@ -66,31 +66,28 @@ Cet article LinkedIn explique comment un social media manager professionnel peut
 
 ## Ce que j'en retiens
 
-Ces deux sources se complètent parfaitement et m'apportent une vision globale :
+Ces deux sources m'ont donné une vision claire de ce qui fonctionne :
 
-1. **Le contenu est roi** : La qualité et la régularité des publications sont non-négociables
+1. **La régularité bat la perfection** : Mieux vaut poster tous les jours du contenu correct que rarement du contenu parfait.
 
-2. **L'authenticité attire** : Montrer les coulisses, le processus, l'humain derrière l'artiste
+2. **Les coulisses fascinent** : Les gens veulent voir le processus, pas juste le résultat final. Ça tombe bien, j'adore documenter.
 
-3. **La stratégie compte** : Publier sans plan est inefficace, il faut une vraie réflexion
+3. **L'engagement se mérite** : Répondre aux commentaires, interagir avec d'autres comptes... C'est du travail, mais ça paie.
 
-4. **L'engagement est clé** : Les réseaux sociaux sont des conversations, pas des monologues
+4. **La stratégie fait la différence** : Les comptes qui réussissent ne postent pas au hasard. Ils ont un plan.
 
-5. **La professionnalisation paie** : Investir dans sa communication est rentable à long terme
+5. **Les stats ne mentent pas** : Analyser ce qui marche (et ce qui ne marche pas) permet d'ajuster le tir.
 
-6. **Les métriques guident** : Analyser ses statistiques permet d'optimiser sa stratégie
+## Ce que ça change pour mon projet
 
-## Pourquoi c'est utile pour moi
+C'est peut-être l'article de veille le plus directement applicable à mon parcours :
 
-Cette veille sur le social media est directement applicable à mon projet :
+- **Dès maintenant** : Je pourrais commencer à documenter mon apprentissage du dessin et du tatouage sur Instagram
+- **Ma formation est un atout** : Tout ce que j'apprends en ingénierie des médias peut servir ici
+- **Deux voies possibles** : Soit je gère ma propre communication quand je serai tatoueuse, soit j'aide d'autres artistes à gérer la leur
+- **Le timing est bon** : Construire une audience pendant l'apprentissage, c'est avoir une base quand on est prête à tatouer
 
-- **Dès maintenant** : Je peux commencer à construire ma présence en ligne, même en phase d'apprentissage
-- **Documenter mon parcours** : Partager mon évolution peut créer une communauté engagée
-- **Comprendre les codes** : Savoir ce qui fonctionne avant de me lancer
-- **Anticiper** : Préparer ma stratégie de communication pour le jour où je serai prêt à tatouer
-- **Double compétence** : Maîtriser le social media est un atout différenciant dans le métier
-
-Ces connaissances me seront utiles que je devienne tatoueur indépendant ou que je travaille pour un studio existant.
+Honnêtement, c'est ce croisement entre tatouage et communication qui me motive le plus. C'est là que je sens que je peux apporter quelque chose d'unique.
 
 ---
 

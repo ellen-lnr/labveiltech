@@ -15,16 +15,16 @@ tags:
 draft: false
 ---
 
-Dans le monde du tatouage et de la communication digitale, rester informé est essentiel. Les tendances évoluent rapidement, les techniques se perfectionnent, et les stratégies social media se transforment constamment. Voici comment j'ai structuré mon système de veille pour ne rien manquer.
+Quand j'ai commencé à m'intéresser sérieusement au tatouage, je me suis vite rendu compte que je ne savais pas par où commencer. Entre les vidéos YouTube, les podcasts, les comptes Instagram... l'information est partout, mais souvent dispersée. J'ai donc décidé de structurer ma veille pour ne pas me noyer dans ce flux constant.
 
-## Pourquoi une veille structurée ?
+## Pourquoi j'ai ressenti le besoin d'une veille structurée
 
-Le tatouage est un domaine où l'apprentissage ne s'arrête jamais. Entre les nouvelles techniques, les normes d'hygiène qui évoluent, et les stratégies de communication pour se faire connaître, il est crucial d'avoir un système organisé pour :
+En tant qu'étudiante en ingénierie des médias passionnée par le tatouage, je me trouve à l'intersection de deux mondes : l'art corporel et la communication digitale. C'est exactement ce qui me motive — mon **ikigai** si on veut. Mais pour avancer concrètement, j'avais besoin d'un système pour :
 
-- **Apprendre continuellement** les bonnes pratiques du métier
-- **S'inspirer** des artistes reconnus mondialement
-- **Comprendre** comment développer sa présence en ligne
-- **Anticiper** les tendances du marché
+- **Apprendre les bases du métier** sans me disperser
+- **M'inspirer** des artistes qui ont réussi à allier créativité et visibilité
+- **Comprendre les stratégies** qui fonctionnent sur les réseaux sociaux
+- **Me projeter** dans ce que pourrait être mon futur parcours
 
 ## Mes sources d'écoute
 
@@ -85,18 +85,22 @@ Plateforme incontournable pour :
 
 ## Ce que j'en retiens
 
-Un bon système de veille doit être :
-1. **Régulier** : Mieux vaut 15 minutes par jour qu'une session marathon mensuelle
-2. **Diversifié** : Croiser les sources (vidéo, audio, écrit) enrichit la compréhension
-3. **Actionnable** : Chaque information doit pouvoir être appliquée concrètement
+Après plusieurs semaines à tester différentes approches, voici ce qui fonctionne pour moi :
 
-## Pourquoi c'est utile pour moi
+1. **La régularité prime sur l'intensité** : 15 minutes par jour valent mieux qu'une session marathon le week-end. C'est devenu un rituel, comme scroller Instagram mais avec un objectif.
 
-Cette veille structurée me permet de :
-- Progresser techniquement dans l'apprentissage du tatouage
-- Comprendre les codes du métier avant de me lancer
-- Développer une stratégie de communication efficace
-- Me constituer un réseau de références et d'inspirations
+2. **Mixer les formats garde la motivation** : Alterner entre vidéo, podcast et lecture évite la lassitude. Et chaque format apporte quelque chose de différent.
+
+3. **Noter pour retenir** : Sans prise de notes, j'oublie 80% de ce que je consomme. Notion est devenu mon meilleur allié.
+
+## Ce que ça m'apporte concrètement
+
+Cette veille n'est pas juste un exercice académique pour moi. Elle me permet de :
+
+- **Démystifier le métier** : Je comprends maintenant que devenir tatoueuse est un parcours long mais accessible
+- **Affiner mon projet** : Plus je me documente, plus je sais ce que je veux (et ne veux pas)
+- **Préparer ma communication** : Le jour où je serai prête, j'aurai déjà les bases pour me faire connaître
+- **Rester motivée** : Voir des parcours inspirants me rappelle pourquoi je fais tout ça
 
 ---
 
