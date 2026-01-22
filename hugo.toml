@@ -1,0 +1,43 @@
+baseURL = 'https://tattoo-veille.netlify.app/'
+languageCode = 'fr-fr'
+title = 'Ink & Strategy'
+theme = 'pehtheme-hugo'
+
+summaryLength = '20'
+googleAnalytics = 'G-MEASUREMENT_ID'
+disqusShortname = 'your-disqus-shortname'
+
+[params]
+	description = 'Blog de veille sur le tatouage et le social media pour studios de tattoo. Apprentissage, hygiène, inspiration et stratégie digitale.'
+	mainSections = 'posts'
+
+[author]
+	name = 'Ellen'
+	bio = 'Étudiante en ingénierie des médias, passionnée par la communication, le marketing et le monde du tatouage.'
+	avatar = 'https://github.com/ellen-lnr.png'
+	github = 'https://github.com/ellen-lnr'
+
+[pagination]
+	pagerSize = 6
+
+[menu]
+	[[menu.main]]
+		name = 'Articles'
+		pageRef = '/posts'
+		weight = 15
+	[[menu.main]]
+		name = 'À propos'
+		pageRef = '/about'
+		weight = 20
+	[[menu.main]]
+		name = 'Tags'
+		pageRef = '/tags'
+		weight = 25
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.116.0"
+  [module.mounts] # Directing the static folder to assets.
+  	source = 'assets'
+  	target = 'static'
